@@ -92,15 +92,6 @@ The model is trained using:
 
     * Evaluate results using plots and predictions
 
-## 🌐 Future Improvements
-
-* Deploy as a web app using Flask or Streamlit
-
-* Build a mobile app using TensorFlow Lite
-
-* Add support for multi-class classification (different denominations)
-
-* Train on global currency datasets
 
 ## 📄 License
 
